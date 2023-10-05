@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//This is the main entry of my code
 int main()
 {
     int i = 0;
@@ -14,5 +15,4 @@ int main()
 
     printf("Finished: i = %d\n", i);
 }
-
 
